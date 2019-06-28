@@ -2,7 +2,7 @@
   "token": "NTg3OTE2MDg3OTg3Nzk4MDU4.XP9kPw.qTMvccwxlC4CaIkMUaaNQyZnOSY",
   "bot": {
     "plugins": [
-      "plugins.tutorial"
+      "plugins.main"
     ]
   }
 }
